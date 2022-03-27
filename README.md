@@ -7,3 +7,5 @@
 - If pair matched, the cards keep number side on. If pair not matched, the cards flap back after 1 second.  
 - Game finished when score reaches 260 points. 
 
+
+[Play here](https://angushyx.github.io/memorizing-card-game//poker.html)
