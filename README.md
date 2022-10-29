@@ -1,6 +1,6 @@
 #  Memorizing Card Game :black_joker:
 
-![DEMO](image/complete.png)
+![DEMO](https://i.imgur.com/S5tDxtk.png)
 
 ## GAME RULE
 - Flap two cards in 1 round. Pair cards with same numbers and get 10 points of score for each pair.  
